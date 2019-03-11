@@ -95,3 +95,7 @@ Install the following:
 - Run `psql`
 - Run `\c catalog` to connect to the catalog database
 - Run `INSERT INTO category (id, name, slug) VALUES (val1, val2, val3);` to fill up the category
+
+Articles referred:
+- [Connect to a Postgres database](https://stackoverflow.com/questions/3949876/how-to-switch-databases-in-psql)
+- [Insert values in the table](http://www.postgresqltutorial.com/postgresql-insert/)
